@@ -1,4 +1,4 @@
-# AIDI_1100_INTRODUCTION_TO_AI_FINAL_PROJECT
+# WEB SCRAPING AND VISUALIZATION PROJECT
 The news articles from PR NewsWire website are parsed and stock prices are visualized based on the content from the parsed articles
 The project guidelines are followed in the order of instructions as listed below:
  - Scan (the last two weeks or the last week, upto you) and parse news from “newswire” website : i.	https://www.prnewswire.com/news-releases/news-releases-list/ 
